@@ -3,6 +3,6 @@ import org.junit.jupiter.api.Assertions.*;
 public class Maintest{
     Main obj=new Main();
     public void test(){
-        assertEquals(300,obj.reverse(3003));
+        assertEquals(30,obj.reverse(3003));
     }
 }
