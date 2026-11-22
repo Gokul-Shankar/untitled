@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+
 
 public class Main{
     public int reverse(int n){
@@ -9,7 +9,7 @@ public class Main{
             num=num/10;
         }
         if(rev==n)
-            return n
+            return n;
         else
             return 0;
     }
