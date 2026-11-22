@@ -7,6 +7,6 @@ public class Maintest {
 
     @Test
     public void test() {
-        assertEquals(30, obj.reverse(3003));
+        assertEquals(3003, obj.reverse(3003));
     }
 }
